@@ -10,7 +10,13 @@ git remove add ...
 git branch - u origin new-feature
 ```
 ## stashing
-
+```
+git stash list
+git stash
+git stash save myname
+git stash apply
+git stash pop 
+```
 ## merging
 
 ```
